@@ -1,0 +1,16 @@
+.MuiAxis-root,
+.MuiTypography-root {
+  fill: white !important; /* Set text color to white */
+}
+
+.MuiLine-root {
+  stroke: white !important; /* Set axis line color to white */
+}
+
+.custom-chart .recharts-cartesian-axis-tick {
+    fill: red; /* Color of the axis ticks */
+  }
+  
+  .custom-chart .recharts-cartesian-axis-label {
+    fill: red; /* Color of the axis labels */
+  }
